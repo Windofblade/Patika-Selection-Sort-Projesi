@@ -6,7 +6,8 @@ Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 
 1-[2,27,16,22,18,6] <--En küçük ile en soldakini yer değiştir.(n eleman)
 2-[2,6,16,22,18,27] <--Sonraki küçük ile 2. elemanı yer değiştirir.(n-1)
-3-[2,6,16,18,22,27] <--Sonraki küçük ile 3. elemanı yer değiştirir.(n-2) Küçükten büyüğe sıralama bitti.
+3-[2,6,16,18,22,27] <--Sonraki küçük ile 3. elemanı yer değiştirir.(n-2) 
+Küçükten büyüğe sıralama bitti.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Big-O gösterimini yazınız.
 
